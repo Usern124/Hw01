@@ -1,0 +1,20 @@
+# ninja log v5
+39	1274	7110487747094073	CMakeFiles/program_Figures.dir/class_Equilateral_triangle.cpp.obj	518b120dacf3643c
+32	1317	7110487747113996	CMakeFiles/program_Figures.dir/class_Parallelogram.cpp.obj	9ad6ae7f9ec8c89
+8	1406	7110487748169603	CMakeFiles/program_Figures.dir/class_Figure.cpp.obj	ec7bbde33cdd854e
+20	1493	7110487749249065	CMakeFiles/program_Figures.dir/class_Quadrangle.cpp.obj	53eb3ca108adcf41
+2	1501	7110487749382776	CMakeFiles/program_Figures.dir/main.cpp.obj	1e97ad616e8a826b
+14	1921	7110487752984402	CMakeFiles/program_Figures.dir/class_Triangle.cpp.obj	16686c562b6542b5
+1494	2502	7110487759161156	CMakeFiles/program_Figures.dir/class_Right_triangle.cpp.obj	8d031125c457980b
+1317	2596	7110487759323023	CMakeFiles/program_Figures.dir/class_Rectangle.cpp.obj	df59049615059170
+1406	2600	7110487759899618	CMakeFiles/program_Figures.dir/class_Rhomb.cpp.obj	c76fc29ecb402f65
+1300	2604	7110487759463758	CMakeFiles/program_Figures.dir/class_Isosceles_triangle.cpp.obj	f1c852c656f1709
+1501	2827	7110487762700109	CMakeFiles/program_Figures.dir/class_Square.cpp.obj	e438d3a26fdf94d3
+1922	3107	7110487765483036	CMakeFiles/program_Figures.dir/Incorrect_params.cpp.obj	50c55d4a29f4d0d4
+3107	3886	7110487772862456	program_Figures.exe	6885ff3f09181189
+3	881	7110489129980276	CMakeFiles/program_Figures.dir/main.cpp.obj	1e97ad616e8a826b
+882	1311	7110489133771402	program_Figures.exe	6885ff3f09181189
+2	1094	7110489800360749	CMakeFiles/program_Figures.dir/main.cpp.obj	1e97ad616e8a826b
+17	1063	7110489977325445	CMakeFiles/program_Figures.dir/main.cpp.obj	1e97ad616e8a826b
+16	971	7110490303129700	CMakeFiles/program_Figures.dir/main.cpp.obj	1e97ad616e8a826b
+16	406	7110490393049908	program_Figures.exe	6885ff3f09181189

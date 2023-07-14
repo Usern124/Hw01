@@ -1,0 +1,13 @@
+# ninja log v5
+54	1653	7110376085329253	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	2f7f40ababa574cd
+1653	2170	7110376090014590	my_first_cmake_program.exe	80a4cc2d9328e80f
+9	1076	7110431916921088	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	2f7f40ababa574cd
+1076	1741	7110431922522457	my_first_cmake_program.exe	80a4cc2d9328e80f
+29	937	7110432369418818	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	2f7f40ababa574cd
+938	1235	7110432371868607	my_first_cmake_program.exe	80a4cc2d9328e80f
+3	980	7110432694669560	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	2f7f40ababa574cd
+981	1315	7110432697416274	my_first_cmake_program.exe	80a4cc2d9328e80f
+3	934	7110433333119729	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	2f7f40ababa574cd
+934	1215	7110433335519307	my_first_cmake_program.exe	80a4cc2d9328e80f
+2	954	7110433979588644	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	2f7f40ababa574cd
+955	1372	7110433982569099	my_first_cmake_program.exe	80a4cc2d9328e80f
