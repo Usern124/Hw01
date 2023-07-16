@@ -120,7 +120,8 @@ int main()
 	std::cout << ((*f1)-- * *f2).print() << "\n";		//7 / 4-- * 4 / 5 = 7 / 5
 	std::cout << "Value fraction 1: " << f1->print() << "\n";
 	
-
+	delete f1;
+	delete f2;
 
 	return 0;
 }
