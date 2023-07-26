@@ -1,0 +1,6 @@
+﻿cmake_minimum_required (VERSION 3.8)
+project ("Task3")
+set (CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+add_library (Leaver SHARED Leaver.h Leaver.cpp)
+add_executable (Task3 "Task3.cpp")
+target_link_libraries (Task3 Leaver)
